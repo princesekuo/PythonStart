@@ -1,0 +1,12 @@
+{
+    "git.allowForcePush": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.showPushSuccessNotification": true,
+    "git.defaultCloneDirectory": "https://github.com/princesekuo/PythonStart.git",
+    "gitlens.views.repositories.location": "explorer",
+    "git.scanRepositories": [
+        "https://github.com/princesekuo/PythonStart.git"
+    ],
+    "git.autofetch": true,
+    
+}
